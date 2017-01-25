@@ -1,6 +1,8 @@
 ---
 layout: post
 title: TOP 10 Speech Recognition Systems!
+category: programming
+tags: [github, github-pages, jekyll]
 ---
 
 1) annyang JS
